@@ -1,0 +1,77 @@
+[
+    {
+        "layer": "top",
+        "position": "top",
+        "name": "top",
+        "margin-top": 20,
+        "margin-left": 20,
+        "margin-right": 20,
+        "height": 30,
+        "modules-left": [
+            "hyprland/workspaces",
+            "hyprland/submap",
+            "custom/fuzzy-clock"
+        ],
+        "modules-center": [],
+        "modules-right": [
+            "network",
+            "pulseaudio",
+            "pulseaudio/slider"
+        ],
+        "clock": {
+            "format-alt": "{:%a, %d. %b  %H:%M}"
+        },
+        "custom/fuzzy-clock": {
+            "exec": "~/.config/waybar/scripts/fuzzy-clock.py",
+            "return-type": "json",
+            "interval": 30,
+            "format": "{}",
+            "tooltip": true
+        },
+        "pulseaudio": {
+            "format": "{icon}",
+            "format-bluetooth": "{volume}% {icon}",
+            "format-muted": "",
+            "format-icons": {
+                "default": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "scroll-step": 5,
+            "on-click": "hyprpwcenter"
+        },
+        "pulseaudio/slider": {
+            "min": 0,
+            "max": 100,
+            "orientation": "horizontal"
+        },
+        "network": {
+            "interface": "wlan0",
+            "format": "",
+            "format-wifi": "{essid} ({signalStrength}%) ",
+            "format-ethernet": "{ifname} ",
+            "format-disconnected": "",
+            "tooltip-format": "{ifname}",
+            "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
+            "tooltip-format-ethernet": "{ifname} ",
+            "tooltip-format-disconnected": "Disconnected",
+            "max-length": 50,
+            "on-click": "pgrep -x nmgui && pkill -9 -f nmgui || nmgui"
+        },
+        "hyprland/workspaces": {
+            "format": "{name}",
+            "format-icons": {
+                "default": ""
+            },
+            "persistent-workspaces": {
+                "*": 3
+            }
+        }
+    }
+]
