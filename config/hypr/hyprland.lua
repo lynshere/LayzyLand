@@ -390,3 +390,13 @@ hl.window_rule({
     size = "380 320",
     border_size = 0,
 })
+
+hl.window_rule({
+    name  = "float-network-login",
+    match = { title = "^(.*Connect to.*)$" },
+
+    float = true,
+    move = "2040 200",
+    size = "380 30",
+    border_size = 0,
+})
