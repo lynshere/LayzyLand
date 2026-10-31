@@ -1,6 +1,9 @@
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/cb8120c1-8215-4958-a816-970f9733433e" />
+
 This is a very unfinished rice that I am using to learn hyprland, THIS PROBABLY WONT WORK OUT OF BOX ON YOUR SYSTEM.
+
 put the "config" folder into ".config" and the "Firefox" wallpaper is just a solid color I use as my Firefox background
-I would also recommend using this! https://github.com/catppuccin/firefox (its great trust)
+
 download any nerd font you like (I use FiraCode --sudo pacman -S ttf-firacode-nerd)
 
 list of recommended packages (I aint making an install script lol)
