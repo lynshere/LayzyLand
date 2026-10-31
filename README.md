@@ -1,9 +1,9 @@
-This is a very unfinished rice that I am useing to learn hyprland, THIS PROBABLY WONT WORK OUT OF BOX ON YOUR SYSTEM.
-put the "config" folder into ".config" and the "firefox" wallpaper is just a solid color I use as my Firefox background
-I would also recomend useing this! https://github.com/catppuccin/firefox (its great trust)
+This is a very unfinished rice that I am using to learn hyprland, THIS PROBABLY WONT WORK OUT OF BOX ON YOUR SYSTEM.
+put the "config" folder into ".config" and the "Firefox" wallpaper is just a solid color I use as my Firefox background
+I would also recommend using this! https://github.com/catppuccin/firefox (its great trust)
 download any nerd font you like (I use FiraCode --sudo pacman -S ttf-firacode-nerd)
 
-list of recomended packages (I aint makeing an install script lol)
+list of recommended packages (I aint making an install script lol)
 -waybar
 -hyprland (duh)
 -hyprlock
@@ -26,4 +26,4 @@ Trans Right Are Human Rights
 
 thanks for checking out my project
 
---lyn
+--Lyn
