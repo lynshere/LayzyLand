@@ -7,10 +7,12 @@ put the "config" folder into ".config" and the "Firefox" wallpaper is just a sol
 download any nerd font you like (I use FiraCode --sudo pacman -S ttf-firacode-nerd)
 
 list of recommended packages (I aint making an install script lol)
+
 -waybar
 -hyprland (duh)
 -hyprlock
 -hyprshutdown (working on it trust)
+-hyprpaper
 -nmgui
 -fastfetch
 -starship
