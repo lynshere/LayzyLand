@@ -9,13 +9,19 @@ download any nerd font you like (I use FiraCode --sudo pacman -S ttf-firacode-ne
 list of recommended packages (I aint making an install script lol)
 
 -waybar
+
 -hyprland (duh)
+
 -hyprlock
+
 -hyprshutdown (working on it trust)
+
 -hyprpaper
+
 -nmgui
+
 -fastfetch
--starship
+
 -fish (set as default shell please --chsh -s /usr/bin/fish)
 
 Trying to figure out notifications and waybar popouts rn (I FIGURED OUT POPOUTS LESGOOOOOO)
