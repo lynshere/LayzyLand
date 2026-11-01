@@ -33,4 +33,5 @@ thanks for checking out my project
 
 --Lyn
 
-current release is 0.2.0 lithromantic <img width="220" height="132" alt="image" src="https://github.com/user-attachments/assets/543e9a1f-4479-49ab-b6ff-66266affe26a" />
+current release is 0.2.0 lithromantic 
+<img width="220" height="132" alt="image" src="https://github.com/user-attachments/assets/543e9a1f-4479-49ab-b6ff-66266affe26a" />
