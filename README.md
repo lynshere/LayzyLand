@@ -21,7 +21,9 @@ Trying to figure out notifications and waybar popouts rn (I FIGURED OUT POPOUTS 
 
 also I decided every release will be named after some sexuality/romanticity/gender
 for example
+
 0.1.0 agender 
+
 why?
 Because I am the dev so I am god
 
