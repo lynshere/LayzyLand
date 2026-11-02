@@ -24,8 +24,7 @@ list of recommended packages (I aint making an install script lol)
 
 -fish (set as default shell please --chsh -s /usr/bin/fish)
 
-Trying to figure out notifications and waybar popouts rn (I FIGURED OUT POPOUTS LESGOOOOOO)
-
+THE INSTALLER IS VERY BROKEN RIGHT NOW, COMING WITH THE NEXT UPDATE, EVEN I, THE CREATOR HAVE GOTTEN IT TO WORK RIGHT ONCE
 
 also I decided every release will be named after some sexuality/romanticity/gender
 for example
