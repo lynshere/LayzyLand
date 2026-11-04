@@ -65,9 +65,11 @@ while true; do
                 mkdir -pv ~/.config/fastfetch
                 mkdir -pv ~/.config/gtk-4.0
                 mkdir -pv ~/.config/fish
+				mkdit -pv ~/Pictures/Wallpaper
                 echo "hyprland stuff"
                 cp -rv /tmp/LayzyLand/config/hypr/. ~/.config/hypr
                 echo "non-hyprland stuff ig"
+				cp -rv /tmp/LayzyLand/config/Wallpaper/. ~/Pictures/Wallpaper
                 cp -rv /tmp/LayzyLand/config/fastfetch/. ~/.config/fastfetch
                 cp -rv /tmp/LayzyLand/config/fish/. ~/.config/fish
                 cp -rv /tmp/LayzyLand/config/gtk-4.0/. ~/.config/gtk-4.0
