@@ -73,7 +73,7 @@ while true; do
                 cp -rv /tmp/LayzyLand/config/fastfetch/. ~/.config/fastfetch
                 cp -rv /tmp/LayzyLand/config/fish/. ~/.config/fish
                 cp -rv /tmp/LayzyLand/config/gtk-4.0/. ~/.config/gtk-4.0
-                cp -rv /tmp/LayzyLand/config/waybar/. ~/.config/waybar
+                cp -rv /tmp/LayzyLand/waybar/. ~/.config/waybar
                 echo "and done, install finished I think, have fun :3"
                 break
             else
