@@ -69,11 +69,11 @@ while true; do
                 echo "hyprland stuff"
                 cp -rv /tmp/LayzyLand/config/hypr/. ~/.config/hypr
                 echo "non-hyprland stuff ig"
-				cp -rv /tmp/LayzyLand/config/Wallpaper/. ~/Pictures/Wallpaper
+				cp -rv /tmp/LayzyLand/Wallpaper/. ~/Pictures/Wallpaper
                 cp -rv /tmp/LayzyLand/config/fastfetch/. ~/.config/fastfetch
                 cp -rv /tmp/LayzyLand/config/fish/. ~/.config/fish
                 cp -rv /tmp/LayzyLand/config/gtk-4.0/. ~/.config/gtk-4.0
-                cp -rv /tmp/LayzyLand/waybar/. ~/.config/waybar
+                cp -rv /tmp/LayzyLand/config/waybar/. ~/.config/waybar
                 echo "and done, install finished I think, have fun :3"
                 break
             else
