@@ -65,7 +65,7 @@ while true; do
                 mkdir -pv ~/.config/fastfetch
                 mkdir -pv ~/.config/gtk-4.0
                 mkdir -pv ~/.config/fish
-				mkdit -pv ~/Pictures/Wallpaper
+				mkdir -pv ~/Pictures/Wallpaper
                 echo "hyprland stuff"
                 cp -rv /tmp/LayzyLand/config/hypr/. ~/.config/hypr
                 echo "non-hyprland stuff ig"
