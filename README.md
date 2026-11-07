@@ -40,7 +40,7 @@ thanks for checking out my project
 
 --Lyn
 
-0.2.2 coming tomorrow probably, will be a waybar update
+0.2.2 not coming anytime soon, my scope has expanded a bit and I'm now using quickshell
 
 current release is 0.2.1 lithsexual
 
