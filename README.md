@@ -40,6 +40,8 @@ thanks for checking out my project
 
 --Lyn
 
+0.2.2 coming tomorrow probably, will be a waybar update
+
 current release is 0.2.1 lithsexual
 
 <img width="220" height="132" alt="image" src="https://github.com/user-attachments/assets/543e9a1f-4479-49ab-b6ff-66266affe26a" />
