@@ -377,8 +377,8 @@ PanelWindow {
 
         visible: musicpopoutopen ||musicpopupscale.yScale > 0.000000000001
 
-        implicitWidth: 316
-        implicitHeight: 416
+        implicitWidth: 332
+        implicitHeight: 432
 
         color: "transparent"
 
@@ -387,9 +387,9 @@ PanelWindow {
 
             anchors.fill: parent
             anchors {
-                leftMargin: 8
-                rightMargin: 8
-                bottomMargin: 8
+                leftMargin: 16
+                rightMargin: 16
+                bottomMargin: 16
             }
 
             bottomLeftRadius: 16
@@ -406,7 +406,7 @@ PanelWindow {
 
                 Behavior on yScale {
                     SpringAnimation {
-                        spring: 1
+                        spring: 7
                         damping: 0.3
                     }
                 }
