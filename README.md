@@ -1,5 +1,9 @@
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/cb8120c1-8215-4958-a816-970f9733433e" />
 
+image outated, will replace today
+
+DONT USE THE INSTALLER
+
 This is a very unfinished rice that I am using to learn hyprland, THIS PROBABLY WONT WORK OUT OF BOX ON YOUR SYSTEM.
 
 put the "config" folder into ".config" and the "Firefox" wallpaper is just a solid color I use as my Firefox background
