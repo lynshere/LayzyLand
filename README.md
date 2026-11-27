@@ -8,7 +8,7 @@
   how to use
 </h2>
 
-clone this repo and but everything it its place
+clone this repo and put everything it its place
 
 <h3>
   what to install 
