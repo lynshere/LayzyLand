@@ -17,14 +17,19 @@ clone this repo and but everything it its place
 needed
 
 quickshell
+
 hyprlauncher (modify to use something that isn't hyprlauncher)
+
 hyprpaper
+
 kitty (once again, mod)
 
 optional (just things this is defaults to, modify to use something else)
 
 fish (set as shell)
+
 hyprfm
+
 firefox
 
 <h3>
@@ -32,10 +37,15 @@ firefox
 </h3>
 
 R: launcher
+
 C: terminal
+
 W: firefox
+
 Q: close window
+
 F: fullscreen
+
 V: Float
 
 uses regular stuff for window moving and workspaces
